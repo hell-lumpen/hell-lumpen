@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hell-lumpen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hell-lumpen/hell-lumpen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
